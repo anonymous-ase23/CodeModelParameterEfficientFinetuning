@@ -45,7 +45,7 @@ tree-sitter              0.20.1
 
 ## How to run 
 
-1. Download the datasets and place into the correct folder.
+1. Change directory to each task folder and download the datasets.
 2. Choose the run script for PEFT methods. For instance, in the code clone detection task, the run-none.sh script means full fine-tuning and the run-lora.sh script means LoRA.
 3. Modify the hypter-parameters for each PEFT method. For instance, in the code clone detection task, you can modify the attn_bn to set a new LoRA bottleneck and you can modify model_name_or_path to adopt a new pre-trained model.
 
