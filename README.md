@@ -21,7 +21,7 @@ Code summarization (CodeSearchNet). A model is given the task to generate natura
 
 Project-specific code summarization. A model is given the task to generate natural language comments for a code whthin a specific project.
 
-## Python environment
+## Python Environment
 Python                   3.9
 
 torch                    1.13.1
@@ -43,7 +43,7 @@ translationstring        1.4
 tree-sitter              0.20.1
 
 
-## How to run 
+## How To Run 
 
 1. Change directory to each task folder and download the datasets.
 2. Choose the run script for PEFT methods. For instance, in the code clone detection task, you can choose the run-none.sh script for full fine-tuning and choose the run-lora.sh script for LoRA.
