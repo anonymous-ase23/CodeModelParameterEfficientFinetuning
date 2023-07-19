@@ -104,5 +104,3 @@ Our datasets come from these works.
 
 # LICENSE
 Our codes follow MIT License.
-
-Our datasets follow Computational Use of Data Agreement (C-UDA) License.
